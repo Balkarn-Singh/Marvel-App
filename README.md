@@ -15,18 +15,12 @@ A web application for Marvel Comics enthusiasts to track their reading progress,
 - **Dark Mode**: Toggle between light and dark themes for a comfortable viewing experience.
 
 ## Technologies Used
-
-### Frontend
 - **React**: Component-based UI.
 - **CSS**: Custom styling, including dark mode and responsive layouts.
 - **React Router**: Navigation between pages (Home, Comics, Series, Events, Cards).
-
-### Backend
 - **Express.js**: Server setup and API routing.
 - **Marvel Comics API**: Fetch data for comics, characters, series, and events.
 - **Axios**: Simplified HTTP requests to external APIs.
-
-### Additional Tools
 - **LocalStorage**: Persistent storage for user card collections.
 - **Node.js**: Backend environment.
 - **Crypto Module**: Authentication for Marvel API requests.
