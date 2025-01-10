@@ -7,7 +7,6 @@ build/
 # Environment variables
 .env
 
-Server.js
 
 # OS-specific files
 .DS_Store
